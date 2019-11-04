@@ -1,4 +1,4 @@
-# mern_shopping_list
+# MERN Shopping List
  Shopping List made with MERN Stack
  This App is a public practice space for a concurrent private MERN Stack App project. As well as an example of my experience creating REACT applications.
  
