@@ -1,6 +1,6 @@
 # MERN Shopping List
  Shopping List made with MERN Stack
- This App is a public practice space for a concurrent private MERN Stack App project. As well as an example of my experience creating REACT applications.
+ This App is a public practice space for a concurrent private MERN Stack App project. To be used as an example of my experience creating REACT applications as well.
  
 ## Goals:
 - [ ] Utilize MERN to store a basic shopping list with Dates
@@ -8,4 +8,7 @@
   - Get
   - Post
   - Delete
-- [ ] Apply Styles to Front End (maybe a framework)
+- [ ] Apply Styles & UX to Front End
+  - Reactstrap to style navbar
+  - Toggle menu function to handle responsivity on mobile devices
+  - Added Link to GitHub remote of project
