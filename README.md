@@ -2,6 +2,9 @@
  Shopping List made with MERN Stack
  This App is a public practice space for a concurrent private MERN Stack App project. To be used as an example of my experience creating REACT applications as well.
  
+Full tutorial for MERN Stack found here: [MERN Stack Tutorial](https://docs.google.com/document/d/1YiHKqsIRbCY2zGwqStbPoMROg_Qnvxu8AXGSZOM2iWE/edit?usp=sharing "MERN Stack")
+Full tutorial for MERN App found here: [MERN App Tutorial](https://docs.google.com/document/d/10dgEOVvOxA1CqBDMn7nP0K8sccquwdE9XemleW5u5XA/edit?usp=sharing "MERN App")
+ 
 ## Goals:
 - [ ] Utilize MERN to store a basic shopping list with Dates
 - [ ] Database routes:
