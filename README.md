@@ -5,7 +5,7 @@
 Full tutorial for MERN Stack found here: [MERN Stack Tutorial](https://docs.google.com/document/d/1YiHKqsIRbCY2zGwqStbPoMROg_Qnvxu8AXGSZOM2iWE/edit?usp=sharing "MERN Stack")
 Full tutorial for MERN App found here: [MERN App Tutorial](https://docs.google.com/document/d/10dgEOVvOxA1CqBDMn7nP0K8sccquwdE9XemleW5u5XA/edit?usp=sharing "MERN App")
 
-Link to the GitHub repo Here: [GitHub Repo](https://github.com/joji-harada/mern_shopping_list "GitHub Repo")
+Link to the GitHub repo here: [GitHub Repo](https://github.com/joji-harada/mern_shopping_list "GitHub Repo")
 
 ## Goals:
 - [ ] Utilize MERN to store a basic shopping list with Dates
