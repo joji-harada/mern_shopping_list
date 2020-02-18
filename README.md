@@ -2,7 +2,7 @@
  Shopping List made with MERN Stack
  This App is a public practice space for a concurrent private MERN Stack App project. To be used as an example of my experience creating REACT applications as well.
 
-![mern shopping list](https://gph.is/g/Zk10LlB)
+![mern shopping list](https://media.giphy.com/media/Ka2cNt6X4WlirWbcIP/giphy.gif)
  
 
 ## Goals:
